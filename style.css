@@ -49,18 +49,17 @@ section{
 
 .main{
     width: 100%;
-    min-height: 100vh;
+    min-height: 10vh;
     display: flex;
     align-items: center;
-    background: url(img/wave.svg) no-repeat;
+    background: url(img/layered-peaks-haikei.svg) no-repeat;
     background-color: #f0f0f0;
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
 }
 
 .main h2{
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 1.4em;
     font-family: 'Amiri Quran', serif;
     font-weight: 600;
@@ -75,7 +74,7 @@ section{
 }
 
 .main h3{
-    color: #000;
+    color: #ffffff;
     font-size: 2em;
     font-family: 'IBM Plex Sans Arabic', sans-serif;
     margin-top: 10px;
@@ -103,7 +102,7 @@ section{
 }
 
 .social-icons a{
-    color :rgb(0, 0, 0); 
+    color :rgb(255, 255, 255); 
     font-size: 1.6em;
     display: inline-block;
     margin-top: 1px;
